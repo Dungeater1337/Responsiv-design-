@@ -1,0 +1,28 @@
+body{
+    display: grid;
+    height: 100vh;
+    width:100vw;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+header{
+    background-color: rgb(125, 125, 209);
+}
+
+nav{
+    background-color: rgb(185, 87, 87);
+}
+
+main{
+    background-color: rgb(241, 198, 140);
+}
+
+footer{
+    background-color: rgb(176, 212, 139);
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+}
